@@ -16,6 +16,8 @@ public class Main {
             System.out.println("Enter a number:");
 
             System.out.println("change the commit user name and email ");
+            System.out.println("Sairam bandarupalli");
+            System.out.println("Backon working with Git ");
         }
     }
 }
